@@ -21,9 +21,7 @@ Take control of your online communities with a fully open source virtual world p
 
 Some examples:
 - TON CON, which is available at [TON CON Meta](https://github.com/DAO-TON-CON/meta))
-- [TON Fingerprints](https://github.com/) text.
-- [TON Svet](https://github.com/) - text.
-- [TON CON NFT](https://github.com/) - text.
+- [TON CON NFT](https://github.com/DAO-TON-CON/nft) - This is a collection of 898 unique digital NFTs created by TON CON 2022. Now you can use them in the Web3 era as digital information on the Open Network.
 
 ---
 
