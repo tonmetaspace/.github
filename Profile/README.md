@@ -20,7 +20,7 @@ Note: **Due to our small team size, we don't support setting up base locally due
 Take control of your online communities with a fully open source virtual world platform that you can make your own.
 
 Some examples:
-- TON CON, which is available at [gg/docs](https://tonmetaspace.org/docs)
+- TON CON, which is available at [TON CON Meta](https://github.com/DAO-TON-CON/meta))
 - [TON Fingerprints](https://github.com/) text.
 - [TON Svet](https://github.com/) - text.
 - [TON CON NFT](https://github.com/) - text.
