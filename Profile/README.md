@@ -42,7 +42,9 @@ After your project becomes a part of the TON Metaspace, you'll receive more supp
 To receive compensation for open-sourcing a metaspaces that is useful for TON, please write a [TON Metaspace](https://github.com/tonmetaspace/os).
 
 ---
-# TON Metaverse
+# Spaceship
+
+![Meta](https://github.com/tonmetaspace/.github/blob/main/Profile/spaceship_.png)
 
 A hybrid game networking and web API server, focused on Social Mixed Reality.
 
