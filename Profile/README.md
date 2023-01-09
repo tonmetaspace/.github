@@ -61,6 +61,8 @@ A hybrid game networking and web API server, focused on Social Mixed Reality.
 
 You can download `storage-daemon` and `storage-daemon-cli` for Linux/Windows/MacOS binaries from [TON Auto Builds](https://github.com/ton-blockchain/ton/actions?query=branch%3Atestnet+is%3Asuccess) (`storage/` folder).
 
+![Metadata](https://github.com/tonmetaspace/.github/blob/main/Profile/spaceship_data.png)
+
 ## Compile from sources
 
 You can compile `storage-daemon` and `storage-daemon-cli` from sources using this [instruction](https://ton.org/docs/develop/howto/compile#storage-daemon).
@@ -389,6 +391,9 @@ To download the *Bag*, other users just need to know its hash. You can also save
 ```
 get-meta <BagID> <meta-file>
 ```
+---
+
+![Metacon](https://github.com/tonmetaspace/.github/blob/main/Profile/spaceship_con.png)
 
 ### 1. Install Prerequisite Packages:
 
