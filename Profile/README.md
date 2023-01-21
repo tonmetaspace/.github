@@ -5,6 +5,8 @@
 
 ## Who we are
 
+![Metaverse](https://github.com/tonmetaspace/.github/blob/main/Profile/arch2.png)
+
 We are a DAO of TON enthusiasts who want to help the community to grow and thrive. 
 
 Some of us are developers, some are researchers, some are just interested in the project. We are all united by the desire to make TON a success.
