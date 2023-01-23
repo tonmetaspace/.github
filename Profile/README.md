@@ -131,7 +131,7 @@ Metadata storage platforms provide creators with optimized user interfaces and a
 * Hackaton Provider TON domain to a TON Storage bag of files
 * Oracle verification
 
-Result: prototype of node-cube built, node works. Any user can become a node operator in the TON network and receive a fee from other users for hosting files, even if he works with only one node. In addition, the storage is effectively combined with the service for creating TOP Sites and TON DNS sites, allowing you to run TON Metaspace on the TON network without a fixed IP address, a centralized domain or a certified centralized center.
+Result: prototype of node-cube built, node works. Any user can become a node operator in the TON network and receive a fee from other users for hosting files, even if he works with only one node. In addition, the storage is effectively combined with the service for creating TON Sites and TON DNS sites, allowing you to run TON Metaspace on the TON network without a fixed IP address, a centralized domain or a certified centralized center.
 
 # Milestone 8: NFT
 * Fee, mint SBT, NFT CC0 Collections, Fee Storage Providers
