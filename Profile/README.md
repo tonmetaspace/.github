@@ -34,14 +34,14 @@ __For contributors__
 
 If you are a developer, you can contribute to the projects, or add your own. Also, we are looking for people who can help with documentation.
 
-To receive compensation for open-sourcing a metaspaces that is useful for TON, please write a [TON Metaspace](https://github.com/tonmetaspace/os).
+To receive compensation for open-sourcing a metaspaces that is useful for TON, please write a [TON Metaspace](dao@tonmetaspace.org).
 
 
 __For metaspace builders__
 
 After your project becomes a part of the TON Metaspace, you'll receive more support from open-source contributors from the community.
 
-To receive compensation for open-sourcing a metaspaces that is useful for TON, please write a [TON Metaspace](https://github.com/tonmetaspace/os).
+To receive compensation for open-sourcing a metaspaces that is useful for TON, please write a [TON Metaspace](dao@tonmetaspace.org).
 
 ---
 # Spaceship
