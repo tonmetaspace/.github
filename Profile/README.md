@@ -53,7 +53,7 @@ A hybrid game networking and web API server, focused on Social Mixed Reality.
 # Building an open source metaverse on TON
 
 ### 🎨 3D
-If you are a 3D artist and want to support what we are doing with TON Metaspace, consider creating and releasing content under a Creative Commons Zero license or using [NFT TON Fingerprints](https://github.com/mir-one/fingerprints) when creating Metaspace and releasing them as remixed media. We highly appreciate the content with a low number of polygons, optimized for good work on the Internet! In particular, we would like to see scenes that reflect a wide range of experiences.
+> If you are a 3D artist and want to support what we are doing with TON Metaspace, consider creating and releasing content under a Creative Commons Zero license or using [NFT TON Fingerprints](https://github.com/mir-one/fingerprints) when creating Metaspace and releasing them as remixed media. We highly appreciate the content with a low number of polygons, optimized for good work on the Internet! In particular, we would like to see scenes that reflect a wide range of experiences.
 
 ## It is necessary that virtual environments are open, accessible and safe for everyone. This is of paramount importance for the appearance of the metaverse in The Open Network.
 
