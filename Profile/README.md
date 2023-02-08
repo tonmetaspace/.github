@@ -15,6 +15,63 @@ And you can become one of us. Read about how to join below.
 *Finally, it's easy!*
 
 Note: **Due to our small team size, we don't support setting up base locally due to restrictions on developer credentials. Although relatively difficult and new territory, you're welcome to set up this up yourself. In addition to running TON Metaverse locally, you'll need to also run [TON Storage](https://github.com/ton-community/ton-docs/blob/main/docs/participate/ton-storage/storage-faq.md) and [Dialog](https://github.com/DAO-TON-CON/dialog) locally because the developer Dialog server is locked down and your local Reticulum will not connect properly)
+
+## Quick Start Guide
+![Flow](https://github.com/tonmetaspace/.github/blob/main/Profile/flow.png)
+App uses NodeJS, with vite.js on the backend, serving up index.js and index.html and other types of imports to the end-client. We also have [Totum](https://github.com/tonmetaspace/totum) which accepts requests to decode or load various types of files and represent it as a javascript file, and [wsrtc](https://github.com/tonmetaspace/wsrtc) handling the multiplayer over websockets. Users can join rooms and share CRDT [z.js](https://github.com/tonmetaspace/zjs) state data to one another across the network. Also utilised by wsrtc are web codecs used to perform voice encoding and decoding. Once the app is installed all you need to do is go to localhost:3000 to launch the client. ThreeJS is used as a Renderer, physx-wasm for physics calculations as well as VRM models for avatars.
+
+## To Use
+To run App you'll need [Node.js](https://nodejs.org/en/download/) v.17 installed. To manage your Node version use [NVM](https://github.com/nvm-sh/nvm).
+```bash
+git clone --recurse-submodules https://github.com/tonmetaspace/app.git
+cd app/
+npm install
+npm run start
+```
+### Submodules
+When cloning App from git, you must include the option ***"--recurse-submodules"***. The App repo relies upon and imports other Webaverse repos that are vital to the functioning application.
+
+## Development Environment Setup
+### IDEs
+We prefer using [VSCode](https://code.visualstudio.com/download) for development, so the below notes reflect that toolset; however you should be able to adapt this guide to apply to any other IDEs.
+
+## Technologies
+The App primarily uses the following technologies
+* [NodeJS](https://nodejs.org/)
+* [ThreeJS](https://threejs.org/)
+* [ViteJS](https://vitejs.dev/)
+* [ReactJS](https://reactjs.org/)
+
+## Directory Structure
+
+```bash
+**Root**
+│
+├───src <--- React Application Resides Here
+    ├───Main.jsx <-- Rgisters the routes of the React App and Load Dom
+    ├───App.jsx <-- Loads Webaverse.js from Root directory
+│
+├─ index.js <-- This starts the vite server that serves the React App
+│
+├─ webaverse.js <-- This is the entry point of the Webaverse
+│
+├─ io-manager.js <-- Controls the input events within the application.
+...
+
+```
+
+## Development Mode
+The application uses Vite to hot reload itself automatically if there are any changes to any files. To start the App in dev mode, run:
+
+![Run](https://github.com/tonmetaspace/.github/blob/main/Profile/run.png)
+
+```bash
+npm run start
+```
+
+Any changes inside the _packages_ folder won't recompile automatically and so will require restarting the entire development server by just running again: _npm run dev_
+
+
 ---
 
 ## What we do
@@ -24,9 +81,9 @@ Take control of your online communities with a fully open source virtual world p
 Some examples:
 - TON CON, which is available at [TON CON Meta](https://github.com/DAO-TON-CON/meta))
 - [TON CON NFT](https://github.com/DAO-TON-CON/nft) - This is a collection of 898 unique digital NFTs created by TON CON 2022. Now you can use them in the Web3 era as digital information on the Open Network.
+- [TON Fingerprints](https://github.com/mir-one/fingerprints) - This is a collection of 10 000 unique digital fingerprints created based on the algorithm for generating basic rings using a noise texture. Like human fingerprints, you can now use them for the Web3 and Metaverse era as digital biometric information on The Open Network.
 
 ---
-
 
 ## Why it's so cool to join?
 
