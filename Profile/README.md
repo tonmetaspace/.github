@@ -4,8 +4,7 @@
 ---
 
 ## Who we are
-
-![Metaverse](https://github.com/tonmetaspace/.github/blob/main/Profile/arch2.png)
+![TM](https://github.com/tonmetaspace/.github/blob/main/Profile/tm.png)
 
 We are a DAO of TON enthusiasts who want to help the community to grow and thrive. 
 
@@ -204,6 +203,7 @@ TON Metaspace can provide a level of proof of human existence, using pseudonymou
 
 Result: Organization of an educational model for creating creative remixes and creating derivative works
 
+![Metaverse](https://github.com/tonmetaspace/.github/blob/main/Profile/arch2.png)
 
 ## Development
 
