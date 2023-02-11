@@ -4,7 +4,7 @@
 ---
 
 ## Who we are
-![TM](https://raw.githubusercontent.com/tonmetaspace/.github/b9c03fc65cc279bdacb304e6d09ecf8ddc03d7e4/Profile/tm.png)
+![TM](https://github.com/tonmetaspace/.github/blob/main/Profile/tm_full.png))
 
 We are a DAO of TON enthusiasts who want to help the community to grow and thrive. 
 
