@@ -1,5 +1,5 @@
 <h1 align="center">TON Metaspace 💎</h1>
-<div align="center"><i>An open-source metaverse focusing on The Open Network</i></div>
+<div align="center"><i>Free metaverse focusing on The Open Network, no strings attached. We've buidl an open-source webN-based platform offers secure, privacy-first, auto-scaling with minimal setup extending from WebGL, three.js, A-Frame, WebXR.</i></div>
 
 ---
 
