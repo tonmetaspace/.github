@@ -117,7 +117,7 @@ The term "metaverse" is used to describe augmented reality. This is a signal of 
 
 [Conferences](https://github.com/DAO-TON-CON) can reach a new audience, and friends can connect to explore interactive spaces.
 
-# Milestone 1: design
+# Milestone 2: design
 Some approaches related to the concept of the metaverse and virtual worlds are known through networks, including identification systems, communication protocols, social networks and online economics.
 
 * Build Ecosystem
@@ -130,7 +130,7 @@ Some approaches related to the concept of the metaverse and virtual worlds are k
 
 Result: 6 main metaspace are ready to accept guests
 
-# Milestone 2: market
+# Milestone 3: market
 The metaverse is already beginning to spread three-dimensional environments (often created and shared by users). The use of digital "avatars" and the introduction of virtual and augmented reality technologies.
 * Generator Avatars CC0
 * Market avatars
@@ -140,7 +140,7 @@ The metaverse is already beginning to spread three-dimensional environments (oft
 
 Result: avatar constructor works, well known avatars of TON world can be chosen
 
-# Milestone 3: World oracles
+# Milestone 4: World oracles
 The shift in computing paradigms makes it possible to promote open standards and projects that encourage the development of decentralized, distributed and interoperable virtual worlds. At the device level, the Khronos Group's OpenXR standard has been widely adopted by headset manufacturers, which makes it possible to focus on a single API with the capabilities of specific devices supported through extensions.
 * TON Connect adding and login method development
 * Oracle - Stable Coin rate, 1tx per hour x10 Data Provider CC0
@@ -149,7 +149,7 @@ The shift in computing paradigms makes it possible to promote open standards and
 
 Result: Obtaining Governance and Acquiring Management Tools
 
-# Milestone 4: DAOvsSibyl
+# Milestone 5: DAOvsSibyl
 There are still ongoing debates about how best to reduce risks and strengthen resistance to the Sibyl. Detecting various patterns of attack vectors allows us to create simple but rigorous tools to detect these patterns in a real and potentially high funding environment.
 
 Management in the style of decentralized organizations is used to make decisions and vote on major issues.
@@ -161,7 +161,7 @@ SubDAO - Launcher SubDAO Metaspace, DAO Metaspace
 
 Result: The DAO is created in a strict time frame t. Deploy new-mulstisig 
 
-# Milestone 5: educational course
+# Milestone 6: educational course
 TON Metaspace supports the creation of training courses and materials, as well as other activities, including those conducted in collaboration with the marketing department in order to attract more people to the TON ecosystem
 
 * professionsVirtual Builder/Moderator Vitrual Worlds
@@ -171,7 +171,7 @@ TON Metaspace supports the creation of training courses and materials, as well a
 
 Result: educational quest uploaded to meta and works with open source
 
-# Milestone 6: Staking and DeFi
+# Milestone 7: Staking and DeFi
 
 
 * Staking (Reality Show - mainstage)
@@ -180,7 +180,7 @@ Result: educational quest uploaded to meta and works with open source
 
 Result: tokenomic system and staking possibility created and can be used by tonmeta guests
 
-# Milestone 7: Storage providing
+# Milestone 8: Storage providing
 Metadata storage platforms provide creators with optimized user interfaces and allow them to store their NFT metadata in decentralized storage solutions such as Arweave, IPFS or Filecoin. TON Storage guarantees almost indefinite data storage, while smart contracts on the blockchain regulate financial incentives. The node operator and the user will be able to create a smart contract in the TON blockchain, which guarantees that the user will pay a fixed amount in TON for storing files for a pre-agreed period of time.
 
 * Storage Provider 
@@ -189,13 +189,13 @@ Metadata storage platforms provide creators with optimized user interfaces and a
 
 Result: prototype of node-cube built, node works. Any user can become a node operator in the TON network and receive a fee from other users for hosting files, even if he works with only one node. In addition, the storage is effectively combined with the service for creating TON Sites and TON DNS sites, allowing you to run TON Metaspace on the TON network without a fixed IP address, a centralized domain or a certified centralized center.
 
-# Milestone 8: NFT
+# Milestone 9: NFT
 * Fee, mint SBT, NFT CC0 Collections, Fee Storage Providers
 * Mint Items Collection, Asset Open Metaverse The Open Network
 
 Result: Deploy NFT collections, with a limited access level. Placing `Assets` collections in TON Storage
 
-# Milestone 9: Contribution
+# Milestone 10: Contribution
 TON Metaspace can provide a level of proof of human existence, using pseudonymous digital biometric identification that can be verified, for grant committees to ensure a fair distribution of funds.
 * Contributing systems Metaspace
 * Organization of placement and presentation of <50 Pitch Deck projects
