@@ -15,6 +15,17 @@ And you can become one of us. Read about how to join below.
 
 Note: **Due to our small team size, we don't support setting up base locally due to restrictions on developer credentials. Although relatively difficult and new territory, you're welcome to set up this up yourself. In addition to running TON Metaverse locally, you'll need to also run [TON Storage](https://github.com/ton-community/ton-docs/blob/main/docs/participate/ton-storage/storage-faq.md) and [Dialog](https://github.com/DAO-TON-CON/dialog) locally because the developer Dialog server is locked down and your local Reticulum will not connect properly)
 
+## Performance
+
+|||
+|-|-|
+|Polygon Count |We recommend your scene use no more than 50,000 triangles for mobile devices. |
+|Materials |We recommend using no more than 25 unique materials in your scene to reduce draw calls on mobile devices. |
+|Textures |We recommend your textures use no more than 256MB of video RAM for mobile devices. We also recommend against using textures larger than 2048 x 2048.|
+|Lights |While dynamic lights are not enabled on mobile devices, we recommend using no more than 3 lights in your scene (excluding ambient and hemisphere lights) for your scene to run on low end PCs. |
+|Metaspace size |We recommend a final file size of no more than 16MB for low bandwidth connections. Reducing the file size will reduce the time it takes to download your scene |
+|Metaspace limit |128 MB |
+
 ## Quick Start Guide
 ![Flow](https://github.com/tonmetaspace/.github/blob/main/Profile/flow.png)
 App uses NodeJS, with vite.js on the backend, serving up index.js and index.html and other types of imports to the end-client. We also have [Totum](https://github.com/tonmetaspace/totum) which accepts requests to decode or load various types of files and represent it as a javascript file, and [wsrtc](https://github.com/tonmetaspace/wsrtc) handling the multiplayer over websockets. Users can join rooms and share CRDT [z.js](https://github.com/tonmetaspace/zjs) state data to one another across the network. Also utilised by wsrtc are web codecs used to perform voice encoding and decoding. Once the app is installed all you need to do is go to localhost:3000 to launch the client. ThreeJS is used as a Renderer, physx-wasm for physics calculations as well as VRM models for avatars.
